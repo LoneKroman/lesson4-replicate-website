@@ -1,0 +1,119 @@
+
+div {
+    display: inline-block;
+}
+
+.logo {
+    font-family: roboto, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 48px;
+    /* or 48px */
+    margin-top: 48px;
+    margin-left: 80px;
+    letter-spacing: -0.02em;
+    color: #0a1832;
+}
+
+.logo-dot {
+    color: #a3dc00;
+}
+
+ ul {
+    list-style: none; 
+      
+}
+
+li {
+    display: inline-block;
+      
+}
+ 
+.home {
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+     letter-spacing: 0.02em;
+    color: #1B0A42;
+    margin-top: 48px;
+    margin-left: 273px;
+     
+}
+
+.about {
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+     letter-spacing: 0.02em;
+    color: #1B0A42;
+    margin-top: 48px;
+    margin-left: 50px;
+     
+}
+
+.blog {
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+     letter-spacing: 0.02em;
+    color: #1B0A42;
+    margin-top: 48px;
+    margin-left: 50px;
+     
+}
+
+.contact {
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+     letter-spacing: 0.02em;
+    color: #1B0A42;
+    margin-top: 48px;
+    margin-left: 50px;
+     
+}
+
+a {
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+    margin-top: 48px;
+    margin-left: 752px;
+
+}
+
+button {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    width: 120px;
+    height: 60px;
+    margin-top: 48px; 
+    margin-left: 40px;   
+    background-color: #4F56F1;
+    border-radius: 6px;
+}
